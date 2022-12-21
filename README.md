@@ -2,3 +2,5 @@
 pelatihan_laravel
 
 tambah kata
+
+mengubah kata
